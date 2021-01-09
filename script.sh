@@ -1,5 +1,5 @@
 #!/bin/bash
 
 x=`date`
-echo "my name is SOnia"
+echo "my name is SONIA"
 echo "today date is $x"
